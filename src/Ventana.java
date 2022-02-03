@@ -24,7 +24,7 @@ public class Ventana extends javax.swing.JFrame {
          this.setLocationRelativeTo(null); 
          this.setLayout(null);
          
-       
+        System.out.println("Mensaje nuevo");
     }
 
     /**
